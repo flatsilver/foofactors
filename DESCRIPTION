@@ -19,3 +19,5 @@ Suggests:
     testthat (>= 2.1.0)
 Imports: 
     forcats
+URL: https://github.com/flatsilver/foofactors
+BugReports: https://github.com/flatsilver/foofactors/issues
